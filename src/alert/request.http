@@ -1,0 +1,6 @@
+POST http://localhost:3000/alert
+content-type: application/json
+
+{
+  "message": "Hello World"
+}
